@@ -1,0 +1,36 @@
+.gallery{
+	width: 100%;
+	margin: 30px auto;
+	overflow: hidden;
+	justify-content: center;
+}
+
+.header__gallery{
+	text-align: center;
+	font-size: 50px;
+	color: #e5ad51;
+}
+
+.gallery ul{
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+}
+
+.gallery ul li{
+	flex-basis: 450px;
+	list-style: none;
+	width: 16%;
+	margin: 2% 3% 40px 3%;
+
+}
+
+.gallery ul li a{
+	color: #5d5f5d;
+}
+
+.gallery ul li a img{
+	max-width: 100%;
+}
+
+
