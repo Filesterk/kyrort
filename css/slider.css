@@ -42,9 +42,6 @@
     background-size: cover;
 }
 
-
-
-
 @media (max-width: 640px){
     .item{
         width: 90%;
